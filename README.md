@@ -37,7 +37,7 @@ you will simply have to restart from question #1 (how many characters long do yo
 ![Screen Shot 2023-03-13 at 7 54 04 PM](https://user-images.githubusercontent.com/123417800/224875032-b14605d1-24fa-4dd7-b8fd-331238bf66dd.png)
 
 <br>
-Once you have fulfilled the requirements for the “algorithm” to run, then your password will be displayed in the text box where you will be able to highlight and copy.<br><br>
+Once you have fulfilled the requirements for the program to run, then your password will be displayed in the text box where you will be able to highlight and copy.<br><br>
 
 ![Screen Shot 2023-03-13 at 8 15 56 PM](https://user-images.githubusercontent.com/123417800/224878729-44f3f780-b7c5-400b-9252-8d5f01f6375c.png)
 
